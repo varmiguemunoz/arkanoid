@@ -1,0 +1,22 @@
+{
+  "name": "arkanoid",
+  "version": "1.0.0",
+  "description": "arkanoid Js video game 🧠",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github/varmiguemunoz/arkanoid"
+  },
+  "keywords": [
+    "javascript",
+    "videogame"
+  ],
+  "author": "varmiguemunoz <varmiguemunoz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
